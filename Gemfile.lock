@@ -1,0 +1,24 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    arrayfields (4.9.2)
+    chronic (0.10.2)
+    fattr (2.2.2)
+    main (5.2.0)
+      arrayfields (>= 4.7.4)
+      chronic (>= 0.6.2)
+      fattr (>= 2.2.0)
+      map (>= 5.1.0)
+    map (6.5.3)
+    rake (10.1.1)
+    ruboto (1.0.2)
+      main (~> 5.2.0)
+      rake (~> 10.0)
+      rubyzip (~> 1.0)
+    rubyzip (1.1.0)
+
+PLATFORMS
+  java
+
+DEPENDENCIES
+  ruboto
